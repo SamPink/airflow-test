@@ -1,0 +1,3 @@
+***/__pycache__/***
+project/dags/__pycache__/***
+project/dags/__pycache__/*.pyc
